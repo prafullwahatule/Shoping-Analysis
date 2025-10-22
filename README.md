@@ -222,5 +222,5 @@ It showcases how **clean data, clear KPIs, and interactive visuals** can reveal 
 
 ## 👨‍💻 Author
 **Prafull Wahatule**  
-📧 [prafull816@gmail.com]  
+📧 prafullwahatule@gmail.com
 💼 [GitHub: prafull816](https://github.com/prafull816)
